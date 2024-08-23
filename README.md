@@ -7,7 +7,7 @@ Description: README file for Librarium project.
 -->
 
 # Librarium
-
+![Librarium](docs/librarium.png)
 ## Project Overview
 
 Librarium is a Java-based application for managing book inventories, user accounts, and cart functionalities. Built with Java and Spring Boot using the MVC framework, it includes extensive testing to ensure reliability.
